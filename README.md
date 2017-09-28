@@ -6,7 +6,7 @@
 
 You can deploy your own version of Magento on Heroku in seconds using the Heroku button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/technomile/Heroku-Magento)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ju3tin/magento2)
 
 You can see a live demo at [Heroku Magento MySQL](http://heroku-magento-salesforce.herokuapp.com/)
 
