@@ -1,5 +1,5 @@
 {
-    "name": "TechnoMile",
-    "description": "TechnoMile Ecommerce App",
-    "addons": ["cleardb:punch","newrelic:stark","sendgrid:starter"]
+    "name": "Test123",
+    "description": "Dude",
+    "addons": ["cleardb:Ignite","newrelic:stark","sendgrid:starter"]
 }
